@@ -1,1 +1,1 @@
-World Map with Flags:: A world map that shows countries in its flag.
+World Map with Flags:: A world map that fills countries with their flag.
